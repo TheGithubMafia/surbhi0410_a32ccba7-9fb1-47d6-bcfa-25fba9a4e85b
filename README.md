@@ -1,2 +1,2 @@
-# GUI Weather Report
+# Weather Report
  Python code to generate weather data of any city
